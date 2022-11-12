@@ -1,0 +1,61 @@
+/* HORSE LIST */
+.striped-list .scale-115{
+    display: none;
+}
+
+.striped-list a > .flex.flex-row.items-center{
+    flex-wrap: wrap;
+}
+
+.striped-list .text-xs.flex.flex-row.gap-1.z-\[4\]{
+    position: inherit;
+    margin-left: 5px;
+    bottom: 0;
+}
+
+.striped-list .text-sm.text-warning-300{
+    display: none;
+}
+
+.striped-list .text-sm.text-secondary-300{
+    display: none;
+}
+
+.striped-list .min-w-\[11rem\]{
+    min-width: auto;
+}
+
+.striped-list .rounded-full.w-10.h-10{
+    height: 2rem;
+    width: 2rem;
+}
+
+.striped-list .flex.flex-col.justify-start{
+    flex-direction: row;
+}
+
+.striped-list .flex.flex-col.justify-start p{
+    margin-right: 6px;
+}
+
+.striped-list .text-white\/75.text-sm.whitespace-nowrap{
+    display: none;
+}
+
+.striped-list .flex.flex-col.flex-1.m-0.p-0.justify-center.items-center{
+    flex-direction: row-reverse;
+    margin-right: 3px;
+}
+
+.striped-list .flex.flex-col.flex-1.m-0.p-0.justify-center.items-center p{
+    margin-right: 6px;
+}
+
+.striped-list .gap-6.pflg\:justify-end{
+    gap: .5rem;
+}
+
+.striped-list .pflg\:flex-row.pflg\:gap-x-4{
+    flex-direction: row-reverse;
+}
+/* END HORSE LIST */

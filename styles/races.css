@@ -1,0 +1,15 @@
+.masthead .video-player{
+    display: none;
+}
+
+.masthead .mb-0.text-base.text-white\/75{
+    display: none;
+}
+
+.masthead .container.pfmd\:min-h-\[200px\]{
+    min-height: auto;
+}
+
+.masthead .py-2.pfmd\:pt-10{
+    display: none;
+}

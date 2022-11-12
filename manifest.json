@@ -1,0 +1,27 @@
+{
+  "name": "Racer's Edge",
+  "description": "Optimizations and enhancements for Photo Finish Live",
+  "version": "1.0",
+  "manifest_version": 3,
+  "icons": {
+    "16": "images/logo-16.png",
+    "32": "images/logo-32.png",
+    "48": "images/logo-192.png",
+    "128": "images/logo-192.png"
+  },
+  "permissions": ["scripting"],
+  "content_scripts": [
+    {
+      "css": ["styles/anywhere.css"],
+      "matches": ["https://*.photofinish.live/*"]
+    },
+    {
+      "css": ["styles/races.css"],
+      "matches": ["https://*.photofinish.live/races"]
+    },
+    {
+      "css": ["styles/mystable.css"],
+      "matches": ["https://*.photofinish.live/mystable"]
+    }
+  ]
+}
