@@ -9,7 +9,6 @@
     "48": "images/logo-192.png",
     "128": "images/logo-192.png"
   },
-  "permissions": ["scripting"],
   "content_scripts": [
     {
       "css": ["styles/anywhere.css"],
