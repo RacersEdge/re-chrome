@@ -58,4 +58,8 @@
 .striped-list .pflg\:flex-row.pflg\:gap-x-4{
     flex-direction: row-reverse;
 }
+
+.striped-list .flex.justify-center.w-full.h-full{
+    display: none;
+}
 /* END HORSE LIST */

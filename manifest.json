@@ -1,7 +1,7 @@
 {
   "name": "Racer's Edge",
   "description": "Optimizations and enhancements for Photo Finish Live",
-  "version": "0.1",
+  "version": "0.2",
   "manifest_version": 3,
   "icons": {
     "16": "images/logo-16.png",
